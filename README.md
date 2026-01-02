@@ -1,2 +1,5 @@
-# apex-data-processor
-About A high-performance, multi-threaded Java data processing system designed to simulate concurrent user profile access, custom data structures, and cache-driven performance optimization.
+# Apex Data Processor (Under Progress)
+
+**Java-Based High-Performance Data Processor**
+
+A production-ready, multi-threaded Java application engineered for high-performance concurrent data processing with optimized caching and thread-safe operations.
